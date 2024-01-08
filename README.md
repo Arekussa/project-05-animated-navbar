@@ -1,4 +1,4 @@
-# Tool 02 Animated Menu ✩°｡⋆⸜(˙꒳​˙)
+# Tool 03 Animated Menu ✩°｡⋆⸜(˙꒳​˙)
 
 ![Tohru](https://i.imgur.com/S8gulyP.gif)
 
