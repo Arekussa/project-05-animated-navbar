@@ -1,4 +1,4 @@
-# Tool 02 Animated Navigation Bar ✩°｡⋆⸜(˙꒳​˙)
+# Tool 02 Animated Menu ✩°｡⋆⸜(˙꒳​˙)
 
 ![Tohru](https://i.imgur.com/S8gulyP.gif)
 
@@ -10,7 +10,7 @@
  
 ︵‿︵‿୨♡୧‿︵‿︵
 
- ╰┈➤ This tool is a navigation bar that has an animation when the category is selected ദ്ദി ˶ˆ꒳ˆ˵)✧.
+ ╰┈➤ This tool is a menu that has an animation when the section is selected ദ്ദി ˶ˆ꒳ˆ˵)✧.
  
  ![Animated Navbar](https://i.imgur.com/Z0uM5g4.gif)
 >
